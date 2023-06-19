@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alert Dialogue</string>
+    <string name="alert_dialogue_boxes_in_detail">Alert Dialogue Boxes in Detail</string>
+    <string name="type3">Type3</string>
+    <string name="type2">Type2</string>
+    <string name="type1">Type1</string>
+</resources>
